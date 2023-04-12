@@ -1,6 +1,6 @@
 Seja bem vindo pessoa, eu sou WesleyGhoost, e esse é o meu perfil!
 - 🔭 Trabalho: Estou aberto a trabalhos, mesmo ainda estando em fase de estudos
-- 🌱 No momento estou aprendendo: bibliotecas e frameworks
+- 🌱 No momento estou aprendendo: Typescript
 - 📫 Como chegar até mim: wesley.felix12@hotmail.com
 - 😄 Pronouns: Ele/dele
 <div align="center">
